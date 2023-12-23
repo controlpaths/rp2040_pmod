@@ -1,0 +1,3 @@
+[submodule "examples/pico-uart-bridge"]
+	path = examples/pico-uart-bridge
+	url = git@github.com:controlpaths/pico-uart-bridge.git
