@@ -1,0 +1,27 @@
+Ref,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0603_1608Metric,137.1,-80.8,180,top
+C2,15p,C_0603_1608Metric,144.3,-98.4,90,top
+C3,15p,C_0603_1608Metric,138.5,-98.5,-90,top
+C4,100n,C_0603_1608Metric,141.4,-83.675,-90,top
+C5,1u,C_0603_1608Metric,139.8,-83.675,-90,top
+C6,1u,C_0603_1608Metric,137,-91.9,0,top
+C7,100n,C_0603_1608Metric,137.035,-93.46,0,top
+C8,100n,C_0603_1608Metric,137.025,-95,0,top
+C9,100n,C_0603_1608Metric,148.5,-91.1,-90,top
+C10,1u,C_0603_1608Metric,142.8,-76.6,180,top
+C11,1u,C_0603_1608Metric,135.6,-77.8,90,top
+D1,LED,LED_0603_1608Metric,148.6,-98.2,90,top
+J1,Conn_02x06_Odd_Even,PinHeader_2x06_P2.54mm_Horizontal,146.35,-104.06,-90,top
+J2,USB_B_Micro,USB_Micro-B_Amphenol_10118193-0001LF_Horizontal,140,-71.505,180,top
+J3,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,148.3,-76.52,0,top
+R1,27,R_0603_1608Metric,143,-83.7,-90,top
+R2,27,R_0603_1608Metric,144.6,-83.7,-90,top
+R3,1k,R_0603_1608Metric,141.7,-95.8,0,top
+R4,10k,R_0603_1608Metric,132.9,-80.8,0,top
+R5,1k,R_0603_1608Metric,134.6,-89.3,90,top
+R6,4k7,R_0603_1608Metric,146.9,-98.2,90,top
+SW1,SW_Push,SW_Push_SPST_NO_Alps_SKRK,132,-90.6,90,top
+U1,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,142.9,-90.9,0,top
+U2,W25Q32JVZP,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,134.96,-84.425,0,top
+U3,TLV74333,SOT-23-5,132.7625,-77.55,0,top
+Y1,12MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,141.4,-98.4,0,top
